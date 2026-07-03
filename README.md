@@ -96,23 +96,6 @@ Performance was analysed using:
 
 ---
 
-## Repository Structure
-
-```
-Machine-Learning-IoT-Intrusion-Detection
-│
-├── README.md
-├── Project_Report.pdf
-├── images
-│   ├── architecture.png
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   ├── pca_variance.png
-│   └── results.png
-
-```
-
----
 
 ## Project Outcomes
 
